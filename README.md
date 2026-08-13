@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou Lorena Dutra
 
 ### Engenheira de Computação | Mestranda em Engenharia da Computação e Sistemas | Data Science | Automação | Inteligência Artificial
 
@@ -10,7 +9,7 @@ Atualmente, tenho direcionado minha formação para o desenvolvimento de soluç�
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 * 🎓 Engenheira de Computação — UFMA
 * 🎓 Mestranda em Engenharia da Computação e Sistemas — UEMA
